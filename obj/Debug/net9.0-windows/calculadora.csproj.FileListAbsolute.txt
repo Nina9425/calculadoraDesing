@@ -1,0 +1,16 @@
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\bin\Debug\net9.0-windows\calculadora.exe
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\bin\Debug\net9.0-windows\calculadora.deps.json
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\bin\Debug\net9.0-windows\calculadora.runtimeconfig.json
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\bin\Debug\net9.0-windows\calculadora.dll
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\bin\Debug\net9.0-windows\calculadora.pdb
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\calculadora.Form1.resources
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\calculadora.csproj.GenerateResource.cache
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\calculadora.AssemblyInfoInputs.cache
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\calculadora.AssemblyInfo.cs
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\calculadora.csproj.CoreCompileInputs.cache
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\calculadora.dll
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\refint\calculadora.dll
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\calculadora.pdb
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\calculadora.genruntimeconfig.cache
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\ref\calculadora.dll
