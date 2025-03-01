@@ -63,28 +63,28 @@ namespace calculadora
         {
             operacao = 1;
             numero1 = Convert.ToDouble(textBox1.Text);
-            textBox1.Text = "";
+            textBox1.Clear();
         }
 
         private void btnSubstracao_Click(object sender, EventArgs e)
         {
             operacao = 2;
             numero1 = Convert.ToDouble(textBox1.Text);
-            textBox1.Text = "";
+            textBox1.Clear();
         }
 
         private void btnMultiplicacao_Click(object sender, EventArgs e)
         {
             operacao = 3;
             numero1 = Convert.ToDouble(textBox1.Text);
-            textBox1.Text = "";
+            textBox1.Clear();
         }
 
         private void btnDivisao_Click(object sender, EventArgs e)
         {
             operacao = 4;
             numero1 = Convert.ToDouble(textBox1.Text);
-            textBox1.Text = "";
+            textBox1.Clear();
         }
 
         private void btnIgual_Click(object sender, EventArgs e)
@@ -123,7 +123,8 @@ namespace calculadora
 
         private void btnLimpa_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "";
+            //textBox1.Text = "";
+            textBox1.Clear();
         }
 
         private void btnPonto_Click(object sender, EventArgs e)

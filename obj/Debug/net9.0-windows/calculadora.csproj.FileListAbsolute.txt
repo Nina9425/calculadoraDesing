@@ -14,3 +14,4 @@ D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\refin
 D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\calculadora.pdb
 D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\calculadora.genruntimeconfig.cache
 D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\ref\calculadora.dll
+D:\PROYECTO-PESSOAL\CalculadoraDesing\calculadora\obj\Debug\net9.0-windows\calculadora.sourcelink.json
